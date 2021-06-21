@@ -1,0 +1,25 @@
+.swap-buttons{
+    position: fixed;
+    bottom: 8vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.swap-buttons .MuiTouchRipple-root {
+    box-shadow: 0 10px 50px 0 rgb(0 0 0 / 30%);
+}
+.swap-buttons-replay{
+    color: #f5b748;
+}
+.swap-buttons-close{
+    color: #ec5e6f;
+}
+.swap-buttons-star{
+    color: #62b4f9;
+}
+.swap-buttons-fav{
+    color: #76e2b3;
+}
+.swap-buttons-flash{
+    color: #915dd1;
+}

@@ -1,0 +1,10 @@
+.card{
+    /* background-color: #fff; */
+    position: relative;
+    width: 25rem;
+    padding: 20px;
+    height: 55vh;
+    border-radius: 15px;
+    background-size: cover;
+    background-position: center;
+}
